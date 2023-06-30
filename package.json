@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-ecommercerestapi",
+  "version": "1.0.0",
+  "description": "Ecommerce RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ukaegbu Gray",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1"
+  }
+}
